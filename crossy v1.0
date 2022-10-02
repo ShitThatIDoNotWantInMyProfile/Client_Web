@@ -1,0 +1,8 @@
+this is the first iteration
+
+clone repo and open vscode then inside vscode terminal run the following commands
+
+npm start
+
+(if that doesn't work try 'npm i react' the after finishing try again)
+
